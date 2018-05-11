@@ -1,0 +1,7 @@
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\bin\Debug\Hello.exe.config
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\bin\Debug\Hello.exe
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\bin\Debug\Hello.pdb
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\obj\Debug\Hello.exe
+D:\adamSchool\C#_Geico_Prepare\Hello\Hello\obj\Debug\Hello.pdb
