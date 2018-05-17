@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D69AE5C3-DB24-4EA4-85F2-FFF54AF9DCB7}</ProjectGuid>
+    <ProjectGuid>{A33B84DF-47A0-4ED7-B58F-096A036C69FD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GradeBook</RootNamespace>
-    <AssemblyName>GradeBook</AssemblyName>
+    <RootNamespace>tolowert</RootNamespace>
+    <AssemblyName>tolowert</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Speech" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,14 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GradeBook.cs" />
-    <Compile Include="GradeStatistics.cs" />
-    <Compile Include="GradeTracker.cs" />
-    <Compile Include="NameChangedDelegate.cs" />
-    <Compile Include="NameChangedEventArgs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ThrowAwayGradeBook.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
